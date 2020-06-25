@@ -1,2 +1,2 @@
 # hello-world
-Inicializando no GitHub
+Iniciando no GitHub
